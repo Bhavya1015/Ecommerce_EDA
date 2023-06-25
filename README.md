@@ -1,15 +1,16 @@
 # Ecommerce_EDA
 Dataset taken from Kaggle and these explorations were performed:
-Data Cleaning
 
-Outliers detection and correction
+- Data Cleaning
 
-Order Trend Analysis was done over month, year and days
+- Outliers detection and correction
 
-Shipping cost analysis
+1. Order Trend Analysis was done over month, year and days
 
-Sales analysis
+2. Shipping cost analysis
 
-Region-wise Customer Segmentation 
+3. Sales analysis
+
+4. Region-wise Customer Segmentation 
 
 And inferences were made accordingly...
